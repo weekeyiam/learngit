@@ -1,2 +1,4 @@
-git readme weekey-20170809
+it readme weekey-20170809
 weekeyiam
+checkout
+dev test
